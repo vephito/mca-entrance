@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mca-nimcet/static/css/main.91c46662.css",
+    "main.js": "/mca-nimcet/static/js/main.d2a6cd30.js",
+    "static/js/787.1535038b.chunk.js": "/mca-nimcet/static/js/787.1535038b.chunk.js",
+    "static/media/NTR-Regular.ttf": "/mca-nimcet/static/media/NTR-Regular.96839eb7b68e4482d73d.ttf",
+    "index.html": "/mca-nimcet/index.html",
+    "main.91c46662.css.map": "/mca-nimcet/static/css/main.91c46662.css.map",
+    "main.d2a6cd30.js.map": "/mca-nimcet/static/js/main.d2a6cd30.js.map",
+    "787.1535038b.chunk.js.map": "/mca-nimcet/static/js/787.1535038b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91c46662.css",
+    "static/js/main.d2a6cd30.js"
+  ]
+}
