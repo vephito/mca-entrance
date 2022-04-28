@@ -1,5 +1,6 @@
 .details {
   color: whitesmoke;
+  text-align: center;
 }
 .details-info {
   padding: 50px;
@@ -39,5 +40,8 @@
     padding: 15px;
   }
   .quantitative-link {
+  }
+  h1 {
+    font-size: 24px;
   }
 }
