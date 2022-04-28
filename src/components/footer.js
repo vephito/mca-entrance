@@ -5,7 +5,10 @@ function footer() {
   return (
     <div className="footer">
       <div className="footer-details">
-        Design and built by <b>18CA015</b>
+        Design and built by{" "}
+        <a className="me-link" href="https://vephito.github.io/vephito">
+          <b>18CA015</b>
+        </a>
       </div>
     </div>
   );
