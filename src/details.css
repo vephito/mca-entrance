@@ -1,0 +1,43 @@
+.details {
+  color: whitesmoke;
+}
+.details-info {
+  padding: 50px;
+}
+
+.math-11,
+.math-12,
+.quantitative-link,
+.logical-link {
+  color: greenyellow;
+  font-size: 24px;
+  font-weight: 600;
+  text-decoration: none;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
+  border: 1px solid orange;
+  border-radius: 4px;
+  padding: 15px;
+}
+.math-12 {
+}
+.math-11 {
+}
+@media only screen and (max-width: 600px) {
+  .math-11,
+  .math-12,
+  .quantitative-link,
+  .logical-link {
+    color: greenyellow;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+    border: 1px solid orange;
+    border-radius: 4px;
+    padding: 15px;
+  }
+  .quantitative-link {
+  }
+}

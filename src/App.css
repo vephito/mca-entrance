@@ -1,5 +1,13 @@
+@font-face {
+  font-family: "NTR";
+  font-weight: 200;
+  font-display: fallback;
+  src: url("/public/fonts/NTR-Regular.ttf") format("truetype");
+}
+
 .App {
-  text-align: center;
+  text-align: "";
+  font-family: "NTR", sans-serif;
 }
 
 .App-logo {
